@@ -4,5 +4,6 @@ public class HelloTest {
 		System.out.println("Hello Wordl");
 		System.out.println("Hello Word2");
 		System.out.println("Hello Word3");
+		System.out.println("Hello Word4");
 	}
 }
